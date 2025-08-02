@@ -1,5 +1,5 @@
 {
-	"id": "obsidian-unembed-link-plugin",
+	"id": "unembed-link-plugin",
 	"name": "非图片链接感叹号移除",
 	"version": "1.0.0",
 	"minAppVersion": "0.15.0",
