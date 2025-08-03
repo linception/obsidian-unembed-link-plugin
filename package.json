@@ -1,5 +1,5 @@
 {
-    "name": "obsidian-unembed-link",
+    "name": "obsidian-unembed-link-plugin",
     "version": "1.0.0",
     "description": "非图片链接感叹号移除插件。可移除非图片链接前的感叹号，并自动填充Markdown链接的空alt文本。",
     "main": "main.js",

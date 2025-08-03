@@ -1,6 +1,6 @@
 {
-	"id": "unembed-link-plugin",
-	"name": "非图片链接感叹号移除",
+	"id": "unembed-link",
+	"name": "Unembed Link",
 	"version": "1.0.0",
 	"minAppVersion": "0.15.0",
 	"description": "自动移除非图片链接前的感叹号，并可填充Markdown链接的空alt文本。",
